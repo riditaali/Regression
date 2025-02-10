@@ -1,6 +1,6 @@
 # Regression
 
-<> Linear regression <> | 
+<> Linear regression <br />
 <> Ordinary Least Squares regression (OLS), often called linear regression <> | 
 <> Logistic regression (Binary, Ordinal, Multinomial, …) <> | 
 <> Nonlinear regression <> | 
