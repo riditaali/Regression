@@ -1,7 +1,7 @@
 # Regression
 
-() Linear regression | 
-() Ordinary Least Squares regression (OLS), often called linear regression | 
+() Linear regression /n 
+() Ordinary Least Squares regression (OLS), often called linear regression /n 
 () Logistic regression (Binary, Ordinal, Multinomial, …)  
 () Nonlinear regression | 
 () Log-linear regression (Poisson regression) (Poisson, Gamma or Exponential) is widely used to model scalar responses | 
